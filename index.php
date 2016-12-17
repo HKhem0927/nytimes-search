@@ -1,1 +1,1 @@
-<?php include_once("nytimessearch.html"); ?>
+<?php include_once("index.html"); ?>
